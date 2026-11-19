@@ -1,4 +1,4 @@
-:HL["/budgetwatch-demo/_next/static/chunks/3g5hmys6tdg-3.css","style"]
+:HL["/budgetwatch-demo/_next/static/chunks/1z0h12j5h0b_p.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"to8BJ4TtM7e0vQCnTVzpz","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"QAnqmmksy2jnBAXPZH9kn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
